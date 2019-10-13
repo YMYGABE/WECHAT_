@@ -1,0 +1,36 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.fx.ide.mvnosgi.launching.ui;singleton
+ :=true
+Bundle-Name: Ui
+Bundle-Version: 3.3.0.201809010700
+Archiver-Version: Plexus Archiver
+Built-By: genie.efxclipse
+Require-Bundle: org.eclipse.debug.ui;bundle-version="3.12.0",org.eclip
+ se.fx.ide.mvnosgi.launching;bundle-version="1.0.0",org.eclipse.swt;bu
+ ndle-version="3.106.0",org.eclipse.jdt.core,org.eclipse.jface,org.ecl
+ ipse.jdt.ui,org.eclipse.ui.workbench,org.eclipse.equinox.common;bundl
+ e-version="3.9.0",org.eclipse.m2e.core;bundle-version="1.8.0",org.ecl
+ ipse.m2e.jdt;bundle-version="1.8.0",org.eclipse.jdt.launching,org.ecl
+ ipse.osgi;bundle-version="3.12.0"
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/efxcli
+ pse/org.eclipse.efxclipse.git;path="bundles/tooling/org.eclipse.fx.id
+ e.mvnosgi.launching.ui";commitId=d3b359cb25ee74d69a0785c13d783149e0dd
+ 2bf8
+Created-By: Apache Maven 3.5.4
+Build-Jdk: 1.8.0_162
+
+Name: org/eclipse/fx/ide/mvnosgi/launching/ui/MainLauncherTab.class
+SHA-256-Digest: GLzZIK+glh+/7dd5vqqwX+gb6MBnsNSfgtYXyXoAIuU=
+
+Name: plugin.xml
+SHA-256-Digest: wzz1+cpXgzxAfYyo0IwSUHRI+p5xBCtfjVBHnKXJEpA=
+
+Name: icons/osgiconsole.png
+SHA-256-Digest: tKvuwTZ+u4xh+/CDkASHY2JUkY7thNX12KQ4seds+T8=
+
+Name: org/eclipse/fx/ide/mvnosgi/launching/ui/OSGiLaunchConfigurationT
+ abGroup.class
+SHA-256-Digest: e4cStzzjDYrdl83JtR93Pv0zVq7fgVv/fxddaB/Wx2A=
+

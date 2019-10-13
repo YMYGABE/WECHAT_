@@ -1,0 +1,131 @@
+{
+	"name": "wxml-vscode",
+	"displayName": "wxml",
+	"description": "微信小程序wxml格式化以及高亮组件(高度自定义)",
+	"version": "0.1.2",
+	"publisher": "cnyballk",
+	"engines": {
+		"vscode": "^1.23.0"
+	},
+	"main": "./dist/extension",
+	"keywords": [
+		"wxml",
+		"小程序",
+		"mini",
+		"wechat",
+		"weapp"
+	],
+	"scripts": {
+		"vscode:prepublish": "npm run compile",
+		"compile": "tsc -p ./",
+		"watch": "tsc -watch -p ./",
+		"postinstall": "node ./node_modules/vscode/bin/install",
+		"test": "npm run compile && node ./node_modules/vscode/bin/test"
+	},
+	"categories": [
+		"Other"
+	],
+	"author": "cnyballk <584518260@qq.com> (https://github.com/cnyballk)",
+	"activationEvents": [
+		"onCommand:extension.formatwxml",
+		"onLanguage:wxml"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/cnyballk/wxml-vscode"
+	},
+	"contributes": {
+		"configuration": {
+			"title": "wxml-vscode",
+			"properties": {
+				"wxmlConfig.format": {
+					"type": "object",
+					"description": "wxml格式化的属性。无特殊说明的配置的属性可以这里看https://github.com/beautify-web/js-beautify",
+					"default": {
+						"brace_style": "collapse",
+						"end_with_newline": false,
+						"indent_char": "",
+						"indent_handlebars": false,
+						"indent_inner_html": false,
+						"indent_scripts": "keep",
+						"indent_size": 2,
+						"indent_with_tabs": true,
+						"max_preserve_newlines": 1,
+						"wrap_attributes_count": 4,
+						"unformatted": "['text']",
+						"disable_automatic_closing_labels": false,
+						"preserve_newlines": true,
+						"wrap_attributes": "force-expand-multiline"
+					}
+				},
+				"wxmlConfig.onSaveFormat": {
+					"type": "boolean",
+					"description": "是否开启保存自动格式化",
+					"default": false
+				},
+				"wxmlConfig.activeDisable": {
+					"type": "boolean",
+					"description": "是否禁用高亮组件",
+					"default": false
+				},
+				"wxmlConfig.activeColor": {
+					"type": "object",
+					"description": "高亮的颜色，可设置每个组件的自定义颜色, [tagName]:color",
+					"default": {
+						"color": "#e5c07b"
+					}
+				},
+				"wxmlConfig.tagNoActiveArr": {
+					"type": "array",
+					"description": "高亮所忽略的组件数组",
+					"default": [
+						"view",
+						"button",
+						"text",
+						"icon",
+						"image",
+						"navigator",
+						"block",
+						"input",
+						"label",
+						"template",
+						"form",
+						"camera",
+						"textarea"
+					]
+				}
+			}
+		},
+		"commands": [
+			{
+				"command": "extension.formatwxml",
+				"title": "format wxml"
+			}
+		],
+		"menus": {
+			"editor/context": [
+				{
+					"when": "editorLangId == wxml",
+					"command": "extension.formatwxml",
+					"group": "navigation"
+				}
+			]
+		}
+	},
+	"icon": "public/icon.jpg",
+	"devDependencies": {
+		"@types/mocha": "^2.2.42",
+		"@types/node": "^7.0.43",
+		"tslint": "^5.8.0",
+		"typescript": "^2.6.1",
+		"vscode": "^1.1.21"
+	},
+	"dependencies": {
+		"cny_js_beautify": "^0.0.8"
+	},
+	"__metadata": {
+		"id": "75956efb-2d78-4ad9-b67c-01a860c26ddf",
+		"publisherId": "0066b526-713b-4768-a668-b1ff50310d59",
+		"publisherDisplayName": "cnyballk"
+	}
+}

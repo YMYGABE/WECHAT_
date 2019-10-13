@@ -1,0 +1,23 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="255-75-130-255,,,130-144-255-255" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="FileColorsForProjectViewEnabled" value="true" />
+    <property name="FileColorsForTabsEnabled" value="true" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="file.gist.reindex.count" value="3691" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="ideavim.statistics.timestamp" value="1557541594923" />
+    <property name="lastTip" value="11" />
+    <property name="settings.code.style.selected.tab.Python" value="Spaces" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+</application>

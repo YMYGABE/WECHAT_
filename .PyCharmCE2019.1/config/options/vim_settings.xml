@@ -1,0 +1,47 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1557623316223" />
+      <file name="$USER_HOME$/PycharmProjects/untitled/scratch.py" timestamp="1557545143919">
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1556354881791">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ZGF0YSA9ICJDOlxcaGxtLnR4dCIK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGF0YSA9ICJDOlxcaGxtLnR4dCIK</text>
+      </register>
+      <register name="-" type="4">
+        <text />
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

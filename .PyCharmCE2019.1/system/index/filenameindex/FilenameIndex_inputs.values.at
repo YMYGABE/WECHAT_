@@ -1,0 +1,120 @@
+clpkgIndex.tclauto.tclencodingbig5.enc	ascii.enc	cp437.enc	cp737.enc	cp775.enc	cp850.enc	cp852.enc	cp855.enc	cp857.enc	cp860.enc	cp861.enc	cp862.enc	cp863.enc	cp864.enc	cp865.enc	cp866.enc	cp869.enc	cp874.enc	cp932.enc	cp936.enc	cp949.enc	cp950.enc
+cp1250.enc
+cp1251.enc
+cp1252.enc
+cp1253.enc
+cp1254.enc
+cp1255.enc
+cp1256.enc
+cp1257.enc
+cp1258.enc
+ebcdic.enc
+euc-cn.enc
+euc-jp.enc
+euc-kr.enc
+gb1988.enc
+gb2312.enc
+koi8-r.enc
+koi8-u.enc
+symbol.encgb12345.enciso2022.encjis0201.encjis0208.encjis0212.encksc5601.encmacThai.enctis-620.encdingbats.encmacGreek.encmacJapan.encmacRoman.encshiftjis.enciso8859-1.enciso8859-2.enciso8859-3.enciso8859-4.enciso8859-5.enciso8859-6.enciso8859-7.enciso8859-8.enciso8859-9.encgb2312-raw.enciso2022-jp.enciso2022-kr.enciso8859-10.enciso8859-13.enciso8859-14.enciso8859-15.enciso8859-16.encmacIceland.encmacRomania.encmacTurkish.encmacUkraine.encmacCentEuro.encmacCroatian.encmacCyrillic.encmacDingbats.encinit.tclsafe.tcltclIndexword.tcl	clock.tcl
+parray.tclhistory.tclpackage.tcltix8.4.3prefTK.csTK.fs	TK.csc	TK.fsc
+Blue.cs
+Gray.csBlue.cscGray.cscMakefileTkWin.csTkWin.fs	Bisque.cs	tixmkpref	TkWin.csc	TkWin.fsc
+10Point.fs
+12Point.fs
+14Point.fs
+Bisque.csc
+Old12Pt.fs
+Old14Pt.fs
+SGIGray.cs
+TixGray.cs10Point.fsc12Point.fsc14Point.fscSGIGray.cscTixGray.cscpkgIndex.tclWmDefault.csWmDefault.fsWmDefault.pyWmDefault.cscWmDefault.fscWmDefault.tclWmDefault.txtdemos	widget
+bitmaps
+tix.gifbold.xbmcode.xpmexit.xpmnetw.xbmnetw.xpm	about.xpm	leftj.xbm
+drivea.xbm
+drivea.xpm
+italic.xbm
+rightj.xbm
+select.xpmcapital.xbmcenterj.xbmfilebox.xbmfilebox.xpmjustify.xbmnetwork.xbmnetwork.xpmoptmenu.xpmcombobox.xbmcombobox.xpmharddisk.xbmharddisk.xpmunderlin.xbm
+samples
+Xpm.tclTree.tclXpm1.tcl	Meter.tcl	SText.tcl
+BtnBox.tcl
+CmpImg.tcl
+DirDlg.tcl
+HList1.tcl
+Sample.tcl
+Select.tcl
+SGrid0.tcl
+SGrid1.tcl
+SHList.tclBalloon.tclChkList.tclCmpImg1.tclCmpImg2.tclCmpImg3.tclCmpImg4.tclControl.tclDirList.tclDirTree.tclDynTree.tclFileDlg.tclFileEnt.tclListNBK.tclOptMenu.tclPopMenu.tclSHList2.tclStdBBox.tclSTList1.tclSTList2.tclSTList3.tclSWindow.tclAllSampl.tclArrowBtn.tclCObjView.tclComboBox.tclDragDrop.tclEditGrid.tclEFileDlg.tclLabEntry.tclLabFrame.tclNoteBook.tclPanedWin.tclSListBox.tcltclIndexMkChoose.tclMkDirLis.tclMkSample.tclMkScroll.tcltixwidgets.tcl	fs.tcl
+bitmapsdecr.xbmdrop.xbmfile.giffile.xbmfile.xpmincr.xbminfo.gifinfo.xpmplus.gifplus.xbmplus.xpmtick.xbm	ck_on.xbm	cross.xbm	minus.gif	minus.xbm	minus.xpm
+ck_def.xbm
+ck_off.xbm
+folder.gif
+folder.xbm
+folder.xpm
+system.xbmnetwork.xbmplusarm.gifplusarm.xbmplusarm.xpmresize1.xbmresize2.xbmrestore.xbmsrcfile.gifsrcfile.xbmsrcfile.xpmwarning.gifwarning.xpmact_fold.gifact_fold.xbmact_fold.xpmbalarrow.xbmcbxarrow.xbmharddisk.xbmhourglas.xbmmaximize.xbmminimize.xbmminusarm.gifminusarm.xbmminusarm.xpmno_entry.gifno_entry.xpmopenfile.xbmopenfold.gifopenfold.xbmopenfold.xpmtextfile.giftextfile.xbmtextfile.xpmhourglas.maskmktransgif.tcl
+Tix.tclGrid.tclInit.tclMakefileTree.tcl	Event.tcl	HList.tcl	Meter.tcl	SGrid.tcl	Shell.tcl	SText.tcl	tix84.dll	tix84.lib	TList.tcl	Utils.tcl	VTree.tcl	WInfo.tcl
+BtnBox.tcl
+Compat.tcl
+DirBox.tcl
+DirDlg.tcl
+Select.tcl
+SHList.tcl
+STList.tcl
+VStack.tclBalloon.tclChkList.tclConsole.tclControl.tclDefSchm.tclDialogS.tclDirList.tclDirTree.tclDtlList.tclFileBox.tclFileCbx.tclFileDlg.tclFileEnt.tclHListDD.tclLabWidg.tclListNBk.tclOldUtil.tclOptMenu.tclPopMenu.tclResizeH.tclSimpDlg.tclStatBar.tclStdBBox.tclSWidget.tclSWindow.tclVResize.tclCObjView.tclComboBox.tclDragDrop.tclEFileBox.tclEFileDlg.tclFloatEnt.tclIconView.tclLabEntry.tclLabFrame.tclMultView.tclNoteBook.tclPanedWin.tclpkgIndex.tclPrimitiv.tclSListBox.tclStackWin.tclStdShell.tclVariable.tcl	tk86t.lib
+tcl86t.libtclConfig.shtkstub86.libtclstub86.libtclooConfig.shlibspython3.lib_tkinter.libpython37.liblibpython37.az.pyss.pyToolsdemo	ss1.py
+beer.py
+life.pyhanoi.pymcast.py	eiffel.py	markov.py	queens.py	redemo.py	vector.py
+rpython.pyrpythond.pysortvisu.pyi18n	msgfmt.pypygettext.pymakelocalealias.py	parser
+unparse.py	pyncheX
+rgb.txtxlicense.txt
+Main.py
+ColorDB.py
+pynche.pyw__init__.pywebsafe.txtChipViewer.pyListViewer.pyTextViewer.pywebcolors.txtStripViewer.pySwitchboard.pynamedcolors.txtPyncheWidget.pyTypeinViewer.pyDetailsViewer.pyhtml40colors.txtpyColorChooser.py
+scripts	lll.py
+2to3.py
+crlf.py
+diff.py
+h2py.py
+lfcr.py
+suff.pybyext.pyfixps.pyifdef.pyndiff.pypdeps.pyptags.pyrgrep.pyserve.pywhich.py	dutree.py	eptags.py	fixcid.py	fixdiv.py	google.py	md5sum.py	mkreal.py	nm2def.py	pydoc3.py	pyvenv.py	smelly.py
+abitype.py
+finddiv.py
+pathfix.py
+pindent.pycheckpip.pycheckpyc.pycopytime.pylinktree.pyobjgraph.pypysource.pyreindent.pyuntabify.pybyteyears.pydb2pickle.pyfixheader.pyfixnotice.pyhighlight.pypickle2db.pyrun_tests.pytexi2html.pyfind-uname.pygprof2html.pymake_ctype.pypatchcheck.pyanalyze_dxp.pycleanfuture.pycombinerefs.pyfindlinksto.pyupdate_file.pyfindnocoding.pymailerdaemon.pyreindent-rst.pywin_add2path.pyparseentities.pygenerate_opcode_h.pyimport_diagnostics.pyfind_recursionlimit.pyparse_html5_entities.pyget-remote-certificate.py	pen.py	sdf.py	zy1.py
+drow.py
+includeast.h	accu.h	asdl.h	code.h	dtoa.h	eval.h	node.h	pgen.h
+ceval.h
+pyfpe.h
+pymem.h
+token.hbitset.hcodecs.himport.hinternalgil.hmem.h	hamt.h	hash.h
+ceval.himport.h	condvar.h	context.h	pystate.h
+pygetopt.h
+warnings.hobject.hopcode.hosdefs.hpyhash.hpymath.hpyport.hPython.hpytime.h	compile.h	context.h	errcode.h	grammar.h	marshal.h	objimpl.h	pyarena.h	pyctype.h	pydebug.h	pyexpat.h	pymacro.h	pystate.h	ucnhash.h
+abstract.h
+datetime.h
+graminit.h
+osmodule.h
+parsetok.h
+pyatomic.h
+pyconfig.h
+pydtrace.h
+pyerrors.h
+pystrcmp.h
+pystrhex.h
+pystrtod.h
+pythread.h
+symtable.h
+warnings.hfileutils.hgenobject.hintrcheck.hpy_curses.hpycapsule.hpythonrun.hsetobject.hstructseq.hsysmodule.htraceback.htypeslots.hboolobject.hcellobject.hdictobject.henumobject.hfileobject.hfuncobject.hiterobject.hlistobject.hlongobject.hmodsupport.hpatchlevel.hPython-ast.hbltinmodule.hbytesobject.hclassobject.hdescrobject.hfloatobject.hframeobject.hlongintrepr.hmetagrammar.hodictobject.hpgenheaders.hpylifecycle.hpymacconfig.hrangeobject.hsliceobject.htupleobject.hmemoryobject.hmethodobject.hmoduleobject.hstructmember.hbytes_methods.hcomplexobject.hunicodeobject.hweakrefobject.hbytearrayobject.hnamespaceobject.hdynamic_annotations.h
+list.py
+Scripts
+pip.exepip3.exe
+pip3.7.exeeasy_install.exeeasy_install-3.7.exe
+test.py
+time.pyclass.pydrawn.pyNEWS.txt
+python.exe
+textadf.pyLICENSE.txtpython3.dllpythonw.exepython37.dllvcruntime140.dll.ideauntitled.imlworkspace.xmlmisc.xmlmodules.xml	librariesR_User_Library.xmlsetuptools.ptheasy-install.ptheasy_install.exepip3.7-script.pyeasy_install-script.pyeasy_install-3.7-script.pypip3-script.pyeasy_install-3.7.exepip-script.pypip3.exe
+pip3.7.exe
+pip.exe
+scratch.pyfileColors.xml2978dd22c8a85fa0.txtuntitled.7b42d79b.xml	scratches
+scratch.pyjieba-0.39-py3.7.egg-info	hlm.pyÿ å›¾.pyscratch_1.py

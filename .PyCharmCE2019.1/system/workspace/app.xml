@@ -1,0 +1,278 @@
+<application>
+  <component name="FileBasedIndex">
+    <option name="registeredIndices">
+      <list>
+        <option value="bash.included" />
+        <option value="bash.script.name" />
+        <option value="bash.function.name" />
+        <option value="markdown.header" />
+        <option value="properties.index" />
+        <option value="R.function.shortName" />
+        <option value="Py.class.attributes" />
+        <option value="Python.Decorator" />
+        <option value="Py.variable.shortName" />
+        <option value="Py.class.super" />
+        <option value="Py.function.shortName" />
+        <option value="Py.class.shortNameInsensitive" />
+        <option value="Py.class.shortName" />
+        <option value="dom.elementClass" />
+        <option value="dom.namespaceKey" />
+        <option value="bash.var" />
+        <option value="bash.vardef" />
+        <option value="bash.scriptCommandReference" />
+        <option value="bash.includers" />
+      </list>
+    </option>
+  </component>
+  <component name="FusApprovedGroupsCacheConfigurable" build="191.6605.12" cache_version="1" last_update="1557542491743">
+    <whitelist>
+      <FUSWhitelist>
+        <groups>
+          <group id="actions">
+            <list />
+          </group>
+          <group id="actions.runAnything">
+            <list />
+          </group>
+          <group id="completion.postfix">
+            <list />
+          </group>
+          <group id="debugger.breakpoints">
+            <list />
+          </group>
+          <group id="debugger.breakpoints.usage">
+            <list />
+          </group>
+          <group id="deployment.ftp.settings">
+            <list />
+          </group>
+          <group id="deployment.publish.config">
+            <list />
+          </group>
+          <group id="deployment.serverSettingsUI">
+            <list />
+          </group>
+          <group id="disabled.bundled.tools">
+            <list />
+          </group>
+          <group id="disabled.listed.tools">
+            <list />
+          </group>
+          <group id="editor.settings.ide">
+            <list />
+          </group>
+          <group id="editor.settings.project">
+            <list />
+          </group>
+          <group id="educational">
+            <list>
+              <version from="2" to="2147483647" />
+            </list>
+          </group>
+          <group id="enabled.bundled.tools">
+            <list />
+          </group>
+          <group id="enabled.listed.tools">
+            <list />
+          </group>
+          <group id="file.types">
+            <list />
+          </group>
+          <group id="file.types.usage">
+            <list />
+          </group>
+          <group id="ide.self.update">
+            <list />
+          </group>
+          <group id="import.old.config">
+            <list />
+          </group>
+          <group id="intentions">
+            <list />
+          </group>
+          <group id="json.schema">
+            <list />
+          </group>
+          <group id="keymaps.name">
+            <list />
+          </group>
+          <group id="kubernetes.settings">
+            <list />
+          </group>
+          <group id="kubernetes.usages">
+            <list />
+          </group>
+          <group id="lifecycle">
+            <list />
+          </group>
+          <group id="live.templates">
+            <list />
+          </group>
+          <group id="module.facets">
+            <list />
+          </group>
+          <group id="nodejs.run.configuration">
+            <list />
+          </group>
+          <group id="os.linux.wm">
+            <list />
+          </group>
+          <group id="performance">
+            <list />
+          </group>
+          <group id="php.command.line.tools">
+            <list />
+          </group>
+          <group id="php.phing">
+            <list />
+          </group>
+          <group id="platform.registry.application">
+            <list />
+          </group>
+          <group id="plugins.disabled">
+            <list />
+          </group>
+          <group id="plugins.non.bundled">
+            <list />
+          </group>
+          <group id="productivity">
+            <list>
+              <version from="11" to="2147483647" />
+            </list>
+          </group>
+          <group id="project.fs">
+            <list />
+          </group>
+          <group id="project.structure">
+            <list />
+          </group>
+          <group id="python.interpreter">
+            <list />
+          </group>
+          <group id="python.interpreter.remote">
+            <list />
+          </group>
+          <group id="python.interpreter.type">
+            <list />
+          </group>
+          <group id="python.interpreter.version">
+            <list />
+          </group>
+          <group id="python.packages">
+            <list />
+          </group>
+          <group id="python.packages.versions">
+            <list />
+          </group>
+          <group id="run.configuration.exec">
+            <list />
+          </group>
+          <group id="run.configuration.type">
+            <list />
+          </group>
+          <group id="run.configuration.type.temp">
+            <list />
+          </group>
+          <group id="run.dashboard">
+            <list />
+          </group>
+          <group id="settings">
+            <list />
+          </group>
+          <group id="system.java">
+            <list />
+          </group>
+          <group id="system.os">
+            <list />
+          </group>
+          <group id="terminalShell">
+            <list />
+          </group>
+          <group id="toolbar">
+            <list />
+          </group>
+          <group id="toolwindow">
+            <list />
+          </group>
+          <group id="ui.accessibility.screen.reader">
+            <list />
+          </group>
+          <group id="ui.dialogs">
+            <list />
+          </group>
+          <group id="ui.fonts">
+            <list />
+          </group>
+          <group id="ui.hidpi.mode">
+            <list />
+          </group>
+          <group id="ui.info.features">
+            <list />
+          </group>
+          <group id="ui.look.and.feel">
+            <list />
+          </group>
+          <group id="ui.screen.scale">
+            <list />
+          </group>
+          <group id="ui.tips">
+            <list />
+          </group>
+          <group id="user.advanced.info">
+            <list />
+          </group>
+          <group id="vcs.back.forward.trigger">
+            <list />
+          </group>
+          <group id="vcs.change.reminder">
+            <list>
+              <version from="1" to="2147483647" />
+            </list>
+          </group>
+          <group id="vcs.diff">
+            <list />
+          </group>
+          <group id="vcs.diff.trigger">
+            <list />
+          </group>
+          <group id="vcs.git.project.root">
+            <list />
+          </group>
+          <group id="vcs.git.settings">
+            <list />
+          </group>
+          <group id="vcs.github">
+            <list />
+          </group>
+          <group id="vcs.log.data">
+            <list />
+          </group>
+          <group id="vcs.log.index.application">
+            <list />
+          </group>
+          <group id="vcs.log.index.project">
+            <list />
+          </group>
+          <group id="vcs.log.trigger">
+            <list />
+          </group>
+          <group id="vcs.log.ui">
+            <list />
+          </group>
+          <group id="vcs.metrics">
+            <list />
+          </group>
+          <group id="vcs.names">
+            <list />
+          </group>
+          <group id="vcs.options">
+            <list />
+          </group>
+          <group id="vcs.svn.format">
+            <list />
+          </group>
+        </groups>
+      </FUSWhitelist>
+    </whitelist>
+  </component>
+</application>

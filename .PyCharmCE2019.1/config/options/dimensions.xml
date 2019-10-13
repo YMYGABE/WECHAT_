@@ -1,0 +1,14 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1920.1080@120dpi" x="1143" y="548" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080@120dpi" x="561" y="319" />
+    <location key="search.everywhere.popup.0.0.1920.1080@120dpi" x="250" y="233" />
+    <location key="scopes.0.0.1920.1080@120dpi" x="451" y="111" />
+    <location key="SettingsEditor.0.0.1920.1080@120dpi" x="319" y="91" />
+    <location key="#Vim_Emulation.0.0.1920.1080@120dpi" x="451" y="113" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1383" height="132" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1383" height="132" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1383" height="132" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="1383" height="132" />
+  </component>
+</application>
